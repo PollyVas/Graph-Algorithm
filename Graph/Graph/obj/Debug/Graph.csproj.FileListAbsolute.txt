@@ -1,0 +1,10 @@
+D:\Polina\Курсовая\Graph\Graph\bin\Debug\Graph.exe.config
+D:\Polina\Курсовая\Graph\Graph\bin\Debug\Graph.exe
+D:\Polina\Курсовая\Graph\Graph\bin\Debug\Graph.pdb
+D:\Polina\Курсовая\Graph\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+D:\Polina\Курсовая\Graph\Graph\obj\Debug\Graph.Form1.resources
+D:\Polina\Курсовая\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+D:\Polina\Курсовая\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.cache
+D:\Polina\Курсовая\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\Polina\Курсовая\Graph\Graph\obj\Debug\Graph.exe
+D:\Polina\Курсовая\Graph\Graph\obj\Debug\Graph.pdb
